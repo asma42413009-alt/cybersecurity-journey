@@ -1,12 +1,9 @@
 # Cybersecurity Journey
 
 Hello! I'm Asma.
-
 Welcome to my cybersecurity learning repository.
 
 This repository documents my progress from a complete beginner to building a strong foundation in cybersecurity.
-
----
 
 ## Goals
 
@@ -18,31 +15,28 @@ This repository documents my progress from a complete beginner to building a str
 - Build Practical Projects
 - Earn a Cybersecurity Internship
 
----
-
 ## Progress
 
 ### Week 1
-- [x] Installed VS Code
-- [x] Installed Python
-- [x] Installed Git
-- [x] Installed VirtualBox
-- [x] Installed Ubuntu
-- [x] Created my first GitHub repository
 
----
+- Installed VS Code
+- Installed Python
+- Installed Git
+- Installed VirtualBox
+- Installed Ubuntu
+- Created my first GitHub repository
 
 ## Topics I'll Learn
 
-- Linux
-- Python
-- Networking
-- Web Security
-- Cryptography
-- Ethical Hacking
-- Digital Forensics
-- Cloud Security
+- [Linux](linux.md)
+- [Python](python.md)
+- [Networking](networking.md)
+- [Web Security](web-security.md)
+- [Cryptography](cryptography.md)
+- [Ethical Hacking](ethical-hacking.md)
+- [Digital Forensics](digital-forensics.md)
+- [Cloud Security](cloud-security.md)
 
 ---
 
-> "Every expert was once a beginner." An inovan
+> "Every expert was once a beginner." — An Inovan
